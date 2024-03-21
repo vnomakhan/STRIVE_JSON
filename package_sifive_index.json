@@ -64,11 +64,11 @@
 		{
 		    "category": "SiFive",
 		    "name": "SiFive Freedom Boards",
-		    "url": "https://github.com/Maria618-hash/hardware_sifive/archive/refs/heads/master.zip",
-		    "checksum": "SHA-256:6f8c76188ecc5522d0a47ed2d9c68e29cf019d26deab17ffff386a4f694242b6",
+		    "url": "https://github.com/vnomakhan/STRIVE_ARDUINO/archive/refs/heads/main.zip",
+		    "checksum": "SHA-256:d96aed4518625ac12d6c736bfee1d2f33df0373ce219e7129841c1c7e7fac3e0",
 		    "version": "1.0.0",
 		    "architecture": "riscv",
-		    "archiveFileName": "hardware_sifive-master.zip",
+		    "archiveFileName": "STRIVE_ARDUINO-main.zip",
 		    "boards": [
 			{"name": "HiFive1"},
 			{"name": "Freedom E300 Arty DevKit"}  
@@ -85,7 +85,7 @@
 			    "name": "openocd"
 			}
 		    ],
-		    "size": "5067371"
+		    "size": "92544712"
 		}
 	    ],
 	    "tools": [
