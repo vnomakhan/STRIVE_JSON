@@ -171,7 +171,7 @@
 			{
 				"host":"x86_64-mingw32",
 				"url":"https://github.com/vnomakhan/RISCV_TOOLCHAIN/archive/refs/heads/main.zip",
-				"archiveFileName":"RISCV5-main.zip",
+				"archiveFileName":"RISCV_TOOLCHAIN-main.zip",
 				"checksum":"SHA-256:219753189750a3278e221042357e57c9215f9eb766708e97702b2b2179c11e95",
 				"size":"237550581"
 			  }
